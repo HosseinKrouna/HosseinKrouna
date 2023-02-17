@@ -24,4 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" alt="css3" width="45" height="45"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinkrouna&theme=monokai&show_icons=true)
+
 
