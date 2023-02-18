@@ -1,3 +1,5 @@
+
+
 ##### <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'> <div align="right"> My GitHub Profile [ in progress... ] </div>
 
 
@@ -7,7 +9,13 @@
   height="250px"/>
 </p>
 
-## I´m Hossein
+
+<h2 align="center">Hello there! My name is Hossein Krouna 👋🤓</h2>
+<p align="center">I'm currently an alumni of the Coding Bootcamp at <a href="https://www.neuefische.de/en">neuefische</a> and my only regret is that I didn't start it sooner :man_technologist:. With my new discovered passion for frontend development, I would like to be a part of the amazing GitHub family. During the bootcamp I was able to learn and apply a lot more about the resourceful tools and technologies than I would try on my own. Thanks again:heart:!! You are real machines:robot: I've only just started coding, but I hope that I can contribute something in this area as well. That's why I learn day by day📚🙇‍♂️
+</p>
+
+<p align="center">When I'm not developing and coding, I'm putting on my dad superhero costume and rescuing my two youngsters from the dangers of everyday life 🦸‍♂️. By the way...my youngest ones are also starting to get interested in programming since then. Knowing that the IT industry is the future, I want to teach them more about it. Watching her enthusiasm for it grow also motivates me to keep going😇</p>
+
 
 
 
