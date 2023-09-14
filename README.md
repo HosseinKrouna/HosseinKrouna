@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Hossein Krouna 👋🤓</h2>
-<p align="center">I am a graduate of the Coding Bootcamp at <a href="https://www.neuefische.de/">neuefische</a> 👨‍💻. With my newfound passion for frontend development, I'm excited to be part of the amazing GitHub family. During the bootcamp I had the opportunity to learn about and apply different tools and technologies that I would not have explored on my own. I am grateful to the entire Neuefische team 💐 and especially the trainers who made this journey possible for me ❤️! You are real machines🤖.
+<p align="center">
 
 I'm still at the beginning of my coding path, but I'm eager to contribute constructively and make a difference in this area. That's why I'm committed to learning and growing every day 📚🙇‍♂️.
 
