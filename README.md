@@ -7,9 +7,15 @@
 <h2 align="center">Hello there! My name is Hossein Krouna 👋🤓</h2>
 <p align="center">
 
-I'm still at the beginning of my coding path, but I'm eager to contribute constructively and make a difference in this area. That's why I'm committed to learning and growing every day 📚🙇‍♂️.
+I'm passionate about crafting innovative solutions to everyday challenges. Whether it's helping friends or tackling real-world problems, I thrive on finding creative solutions that make a difference. I believe in leveraging technology to simplify the complex and make life a bit easier for everyone.
 
-When I'm not coding, I'm in my superhero dad costume, rescuing my two little ones from the dangers of everyday life. By the way, my little ones are also starting to get interested in programming. Knowing that the IT industry is the future, I want to teach them more about it. Seeing her enthusiasm grow motivates me even more to continue on this path 😇.</p>
+About Me:
+
+💡 Enthusiastic problem solver
+🌟 Love using technology to streamline daily tasks
+🤝 Enjoy collaborating and sharing ideas
+🚀 Actively learning and growing in the tech space
+Feel free to explore my repositories and see how I tackle various problems using code. Let's connect and brainstorm solutions together!</p>
 
 ### 🚀 &nbsp;Some tools and technologies I use and have learned
 <p align="left">
