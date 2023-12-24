@@ -10,12 +10,13 @@
 I'm passionate about crafting innovative solutions to everyday challenges. Whether it's helping friends or tackling real-world problems, I thrive on finding creative solutions that make a difference. I believe in leveraging technology to simplify the complex and make life a bit easier for everyone.
 </br>
 </br>
-About Me:
+### About Me:
 </br>
-💡 Enthusiastic problem solver</br>
+💡  Enthusiastic problem solver</br>
 🌟 Love using technology to streamline daily tasks</br>
 🤝 Enjoy collaborating and sharing ideas</br>
 🚀 Actively learning and growing in the tech space</br>
+</br>
 Feel free to explore my repositories and see how I tackle various problems using code. Let's connect and brainstorm solutions together!</p>
 
 ### 🚀 &nbsp;Some tools and technologies I use and have learned
