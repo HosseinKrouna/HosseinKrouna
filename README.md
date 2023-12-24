@@ -8,9 +8,9 @@
 <p align="center">
 
 I'm passionate about crafting innovative solutions to everyday challenges. Whether it's helping friends or tackling real-world problems, I thrive on finding creative solutions that make a difference. I believe in leveraging technology to simplify the complex and make life a bit easier for everyone.
-
+</br>
 About Me:
-
+</br>
 💡 Enthusiastic problem solver
 🌟 Love using technology to streamline daily tasks
 🤝 Enjoy collaborating and sharing ideas
