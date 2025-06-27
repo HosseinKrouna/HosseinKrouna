@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" 
-  width="800px"
-  height="250px"/>
-</p>
-
+![FarOldElephantbeetle-small](https://user-images.githubusercontent.com/31243845/121403666-cc367b80-c963-11eb-8d99-756261926fbf.gif)
 <h2 align="center">Hello there! My name is Hossein Krouna 👋🤓</h2>
 <p align="center">
 
